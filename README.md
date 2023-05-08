@@ -15,9 +15,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/corvuscodex"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="corvuscodex" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corvuscodex&show_icons=true&locale=en&layout=compact" alt="corvuscodex" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=corvuscodex&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=corvuscodex&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=corvuscodex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corvuscodex&show_icons=true&locale=en" alt="corvuscodex" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=corvuscodex&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corvuscodex&" alt="corvuscodex" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=corvuscodex&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
