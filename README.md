@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm CorvusCodex</h1>
-<h3 align="center">A Cryptography Fanatic & Software Engineer</h3>
+<h1 align="center">CorvusCodex</h1>
+<h3 align="center">ARTIFICIAL INTELLIGENCE SOLUTIONS FOR PREDICTIVE ANALYTICS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corvuscodex&label=Profile%20views&color=0e75b6&style=flat" alt="corvuscodex" /> </p>
 
